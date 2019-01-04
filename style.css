@@ -1,0 +1,26 @@
+@font-face {
+	font-family: "papyrus";
+	src: url('Parchment MF.ttf');
+}
+@font-face {
+	font-family: "comic";
+	src: url('COMIC.TTF');
+}
+
+body
+{
+	min-width: 400px;
+	max-width: 650px;
+	padding: 0 10px;
+	margin: 40px auto;
+	background-color: #EEEEEE;
+	line-height: 1.6;
+	font-size: 18px;
+	color:#444;
+}
+
+h1, h2, h3
+{
+	line-height:1.2;
+}
+
